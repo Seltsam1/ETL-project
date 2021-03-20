@@ -9,6 +9,10 @@ TBD
 
 https://www.kaggle.com/michau96/popularity-of-games-on-steam
 
+https://www.kaggle.com/arashnic/game-review-dataset
+
+
+
 https://www.kaggle.com/deepann/80000-steam-games-dataset
 
 ## Licensing by:
