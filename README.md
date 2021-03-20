@@ -9,9 +9,7 @@ TBD
 
 https://www.kaggle.com/michau96/popularity-of-games-on-steam
 
-https://www.kaggle.com/deepann/80000-steam-games-dataset?select=steam_data.csv
-
-https://www.kaggle.com/najzeko/steam-reviews-2021
+https://www.kaggle.com/deepann/80000-steam-games-dataset
 
 ## Licensing by:
 
