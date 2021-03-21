@@ -12,7 +12,7 @@ The jupyter notebook file (ETL-steam.ipynb] contains all steps needed for extrac
 
 The schema.sql file contains the "create table" instructions to prep the SQL database before loading
 
-The Resources folder contains the csv file (the JSON file was too large to import to GitHub, but is available at the above link for download)
+The Resources folder contains the csv file (the JSON file was too large to import to GitHub, but is available at the above link for download or you can click [here](https://www.kaggle.com/deepann/80000-steam-games-dataset/ "here"))
 
 ## Features and Process
 
